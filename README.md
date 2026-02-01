@@ -9,17 +9,8 @@ I like systems that don’t rot: contracts, tests, and observability wired in fr
 
 ### Selected Repos (actively maintained)
 
-- **mobile-core-kit** — opinionated Flutter foundation for shipping apps fast without chaos  
-  https://github.com/fikrilal/mobile-core-kit
-
-- **backend-core-kit** — production-ready backend boilerplate with sane defaults  
-  https://github.com/fikrilal/backend-core-kit
-
-- **factweaver** — agent-in-the-loop pipeline: ChatGPT export → local, auditable memory KB (SQLite + Markdown)  
-  https://github.com/fikrilal/factweaver
-
-- **gitlab-activity-mirror** — mirror GitLab commits into GitHub to keep the activity graph accurate  
-  https://github.com/fikrilal/gitlab-activity-mirror
-
-- **discord-voice-ai-bot** — Discord voice bot experiments with AI (voice-in / voice-out)  
-  https://github.com/fikrilal/discord-voice-ai-bot
+- **[mobile-core-kit](https://github.com/fikrilal/mobile-core-kit)** — opinionated Flutter foundation for shipping apps fast without chaos.
+- **[backend-core-kit](https://github.com/fikrilal/backend-core-kit)** — production-ready backend boilerplate with sane defaults.
+- **[factweaver](https://github.com/fikrilal/factweaver)** — agent-in-the-loop pipeline: ChatGPT export → local, auditable memory KB (SQLite + Markdown).
+- **[gitlab-activity-mirror](https://github.com/fikrilal/gitlab-activity-mirror)** — mirror GitLab commits into GitHub to keep the activity graph accurate.
+- **[discord-voice-ai-bot](https://github.com/fikrilal/discord-voice-ai-bot)** — Discord voice bot experiments with AI (voice-in / voice-out).
