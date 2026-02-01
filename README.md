@@ -1,19 +1,25 @@
-## Hi there 👋
+## Hi, I’m Fikril 👋
+
+📍 Bandung ↔ Remote | Mobile Engineer | Founder @ Orymu
 
 [![wakatime](https://wakatime.com/badge/user/13d91bc9-c216-4f85-b394-34770cc4493e.svg)](https://wakatime.com/@13d91bc9-c216-4f85-b394-34770cc4493e)
 
-I’m Fikril — a mobile engineer who likes clean architecture, release discipline, observability, and reusable foundations. Based in Bandung, Indonesia.
+I build production mobile apps and the backends behind them—clean architecture, strict guardrails, and repeatable delivery.
+I like systems that don’t rot: contracts, tests, and observability wired in from day one.
 
-I’m building:
-- **Orymu** — a memory-first reading companion
-- **Orymu Studio** — product engineering (mobile + web)
+### Selected Repos (actively maintained)
 
-### Selected projects
+- **mobile-core-kit** — opinionated Flutter foundation for shipping apps fast without chaos  
+  https://github.com/fikrilal/mobile-core-kit
 
-| Project | What it is |
-| --- | --- |
-| [mobile-core-kit](https://github.com/fikrilal/mobile-core-kit) | Opinionated Flutter boilerplate: flavors, networking, DI, theming, Firebase wiring, and architecture lint gates. |
-| [backend-core-kit](https://github.com/fikrilal/backend-core-kit) | Production-ready backend boilerplate (NestJS/Fastify + Postgres/Prisma + Redis/BullMQ + OTel + OpenAPI contract gates). |
-| [factweaver](https://github.com/fikrilal/factweaver) | Agent-in-the-loop pipeline: distill a ChatGPT export into a local, auditable memory knowledge base (SQLite + Markdown views). |
-| [gitlab-activity-mirror](https://github.com/fikrilal/gitlab-activity-mirror) | Mirrors GitLab commits into a GitHub repo to keep your activity graph accurate (idempotent; Actions-ready). |
-| [discord-voice-ai-bot](https://github.com/fikrilal/discord-voice-ai-bot) | Discord bot for natural voice conversations (voice-in, voice-out) powered by OpenAI APIs. |
+- **backend-core-kit** — production-ready backend boilerplate with sane defaults  
+  https://github.com/fikrilal/backend-core-kit
+
+- **factweaver** — agent-in-the-loop pipeline: ChatGPT export → local, auditable memory KB (SQLite + Markdown)  
+  https://github.com/fikrilal/factweaver
+
+- **gitlab-activity-mirror** — mirror GitLab commits into GitHub to keep the activity graph accurate  
+  https://github.com/fikrilal/gitlab-activity-mirror
+
+- **discord-voice-ai-bot** — Discord voice bot experiments with AI (voice-in / voice-out)  
+  https://github.com/fikrilal/discord-voice-ai-bot
