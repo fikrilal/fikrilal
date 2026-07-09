@@ -1,16 +1,23 @@
 ## Hi, I’m Fikril 👋
 
-📍 Bandung ↔ Remote | Mobile Engineer | Founder @ **[Orymu](https://orymu.com/)**
+📍 Bandung ↔ Remote | Mobile Engineer
 
 [![wakatime](https://wakatime.com/badge/user/13d91bc9-c216-4f85-b394-34770cc4493e.svg)](https://wakatime.com/@13d91bc9-c216-4f85-b394-34770cc4493e)
 
-I build production mobile apps and the backends behind them—clean architecture, strict guardrails, and repeatable delivery.
-I like systems that don’t rot: contracts, tests, and observability wired in from day one.
+I ship products from **0 → 1** and push them **1 → 100** — owning architecture, releases, and the choices that stick.
 
-### Selected Repos (actively maintained)
+Day job is mobile products; nights are tools and systems I wanted to exist.
 
-- **[mobile-core-kit](https://github.com/fikrilal/mobile-core-kit)** — opinionated Flutter foundation for shipping apps fast without chaos.
+### Building
+
+[Orymu](https://orymu.com/) | [Burnly](https://www.burnly.dev/) | [Kevly](https://kevly.app/) | [Awwabi](https://awwabi-frontend.vercel.app/)
+
+### Selected repos
+
+- **[gnome-lyricbar](https://github.com/fikrilal/gnome-lyricbar)** — synced live lyrics in GNOME’s top bar (MPRIS + LRCLIB).
+- **[burnly](https://github.com/fikrilal/burnly)** — track AI coding-agent token burn across Claude Code, Codex, OpenCode, and more.
+- **[mobile-core-kit](https://github.com/fikrilal/mobile-core-kit)** — opinionated Flutter foundation for shipping apps without chaos.
 - **[backend-core-kit](https://github.com/fikrilal/backend-core-kit)** — production-ready backend boilerplate with sane defaults.
-- **[factweaver](https://github.com/fikrilal/factweaver)** — agent-in-the-loop pipeline: ChatGPT export → local, auditable memory KB (SQLite + Markdown).
-- **[gitlab-activity-mirror](https://github.com/fikrilal/gitlab-activity-mirror)** — mirror GitLab commits into GitHub to keep the activity graph accurate.
-- **[discord-voice-ai-bot](https://github.com/fikrilal/discord-voice-ai-bot)** — Discord voice bot experiments with AI (voice-in / voice-out).
+- **[gitlab-activity-mirror](https://github.com/fikrilal/gitlab-activity-mirror)** — mirror GitLab commits into GitHub so the activity graph stays honest.
+
+→ more at **[fikril.dev](https://www.fikril.dev/)**
